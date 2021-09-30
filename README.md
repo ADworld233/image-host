@@ -1,2 +1,2 @@
 # image-host
-My image host
+This is my image host!
